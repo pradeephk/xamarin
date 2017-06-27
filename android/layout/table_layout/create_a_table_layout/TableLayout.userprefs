@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{DBD84958-B472-46B8-878D-434A21F992D8}|Default">
+  <MonoDevelop.Ide.ItemProperties.TableLayout PreferredExecutionTarget="Android.192.168.57.101:5555" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

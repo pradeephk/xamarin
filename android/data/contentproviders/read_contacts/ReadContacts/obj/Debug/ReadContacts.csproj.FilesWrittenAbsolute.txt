@@ -1,0 +1,13 @@
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/bin/Debug/ReadContacts.pdb
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/bin/Debug/ReadContacts.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/bin/Debug/ReadContacts.ReadContacts.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/android/bin/ReadContacts.ReadContacts.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/res/values/strings.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/res/drawable/icon.png
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/res/layout/contactitemview.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/R.cs.flag
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/bin/Debug/ReadContacts.ReadContacts-Signed.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/uploadflags.txt
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/ReadContacts.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/contentproviders/read_contacts/ReadContacts/obj/Debug/ReadContacts.pdb

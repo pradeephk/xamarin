@@ -1,0 +1,13 @@
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/bin/Debug/ArrayAdapterDemo.pdb
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/bin/Debug/ArrayAdapterDemo.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/bin/Debug/ArrayAdapterDemo.ArrayAdapterDemo.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/android/bin/ArrayAdapterDemo.ArrayAdapterDemo.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/res/values/strings.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/res/drawable/icon.png
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/res/layout/textviewitem.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/R.cs.flag
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/bin/Debug/ArrayAdapterDemo.ArrayAdapterDemo-Signed.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/uploadflags.txt
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/ArrayAdapterDemo.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/use_an_arrayadapter/ArrayAdapterDemo/obj/Debug/ArrayAdapterDemo.pdb

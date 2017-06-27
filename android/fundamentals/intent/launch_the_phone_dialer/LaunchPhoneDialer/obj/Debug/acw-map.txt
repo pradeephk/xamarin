@@ -1,0 +1,4 @@
+LaunchPhoneDialer.Activity1, LaunchPhoneDialer;md5b8b7e5325ee7d83907930748246b3a18.Activity1
+LaunchPhoneDialer.Activity1, LaunchPhoneDialer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b8b7e5325ee7d83907930748246b3a18.Activity1
+LaunchPhoneDialer.Activity1;md5b8b7e5325ee7d83907930748246b3a18.Activity1
+launchphonedialer.Activity1;md5b8b7e5325ee7d83907930748246b3a18.Activity1

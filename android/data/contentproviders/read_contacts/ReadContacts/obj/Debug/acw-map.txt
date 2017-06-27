@@ -1,0 +1,4 @@
+ReadContacts.Activity1, ReadContacts;md5746572ec76f8452e4f60040f50351cba.Activity1
+ReadContacts.Activity1, ReadContacts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5746572ec76f8452e4f60040f50351cba.Activity1
+ReadContacts.Activity1;md5746572ec76f8452e4f60040f50351cba.Activity1
+readcontacts.Activity1;md5746572ec76f8452e4f60040f50351cba.Activity1

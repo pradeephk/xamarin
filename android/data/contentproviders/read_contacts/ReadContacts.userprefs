@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C4E65FB7-7369-4D5A-B54A-2DD22CBE2D56}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadContacts/Activity1.cs">
+    <Files>
+      <File FileName="ReadContacts/Activity1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReadContacts PreferredExecutionTarget="Android.AVD_for_Nexus_4" />
+</Properties>

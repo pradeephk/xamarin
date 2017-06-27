@@ -1,0 +1,4 @@
+ArrayAdapterDemo.Activity1, ArrayAdapterDemo;md572daf19fcc45b45b51e6b4057091f7d6.Activity1
+ArrayAdapterDemo.Activity1, ArrayAdapterDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md572daf19fcc45b45b51e6b4057091f7d6.Activity1
+ArrayAdapterDemo.Activity1;md572daf19fcc45b45b51e6b4057091f7d6.Activity1
+arrayadapterdemo.Activity1;md572daf19fcc45b45b51e6b4057091f7d6.Activity1

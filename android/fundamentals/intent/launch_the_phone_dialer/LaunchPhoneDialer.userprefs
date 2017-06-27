@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{936D4F1F-C271-4914-A35F-77BB140CF091}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LaunchPhoneDialer/Activity1.cs">
+    <Files>
+      <File FileName="LaunchPhoneDialer/Activity1.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LaunchPhoneDialer PreferredExecutionTarget="Android.AVD_for_Nexus_4" />
+  <MultiItemStartupConfigurations />
+</Properties>

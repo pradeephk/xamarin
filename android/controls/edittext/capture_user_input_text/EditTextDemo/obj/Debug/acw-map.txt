@@ -1,0 +1,4 @@
+EditTextDemo.Activity1, EditTextDemo;md53c7fad009c47bfd9071e697f5f61acc3.Activity1
+EditTextDemo.Activity1, EditTextDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53c7fad009c47bfd9071e697f5f61acc3.Activity1
+EditTextDemo.Activity1;md53c7fad009c47bfd9071e697f5f61acc3.Activity1
+edittextdemo.Activity1;md53c7fad009c47bfd9071e697f5f61acc3.Activity1

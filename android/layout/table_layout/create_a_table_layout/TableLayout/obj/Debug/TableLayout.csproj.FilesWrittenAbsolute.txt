@@ -1,0 +1,13 @@
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/bin/Debug/TableLayout.pdb
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/bin/Debug/TableLayout.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/bin/Debug/TableLayout.TableLayout.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/android/bin/TableLayout.TableLayout.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/res/layout/main.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/res/values/strings.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/res/drawable/icon.png
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/R.cs.flag
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/bin/Debug/TableLayout.TableLayout-Signed.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/uploadflags.txt
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/TableLayout.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/layout/table_layout/create_a_table_layout/TableLayout/obj/Debug/TableLayout.pdb

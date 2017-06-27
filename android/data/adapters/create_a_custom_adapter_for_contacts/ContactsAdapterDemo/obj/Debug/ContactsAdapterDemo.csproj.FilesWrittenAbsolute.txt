@@ -1,0 +1,15 @@
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/bin/Debug/ContactsAdapterDemo.pdb
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/bin/Debug/ContactsAdapterDemo.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/bin/Debug/ContactsAdapterDemo.ContactsAdapterDemo.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/android/bin/ContactsAdapterDemo.ContactsAdapterDemo.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/res/layout/main.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/res/values/strings.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/res/drawable/icon.png
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/res/layout/contactlistitem.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/res/drawable/contactimage.png
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/R.cs.flag
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/bin/Debug/ContactsAdapterDemo.ContactsAdapterDemo-Signed.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/uploadflags.txt
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/ContactsAdapterDemo.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/obj/Debug/ContactsAdapterDemo.pdb

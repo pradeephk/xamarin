@@ -1,0 +1,4 @@
+TableLayout.Activity1, TableLayout;md58d07660ab470d7198db29105a9af3727.Activity1
+TableLayout.Activity1, TableLayout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58d07660ab470d7198db29105a9af3727.Activity1
+TableLayout.Activity1;md58d07660ab470d7198db29105a9af3727.Activity1
+tablelayout.Activity1;md58d07660ab470d7198db29105a9af3727.Activity1

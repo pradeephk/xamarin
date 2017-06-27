@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3DDCDB90-C3ED-4CF7-92A9-1FA9145F95EA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactsAdapterDemo/ContactsAdapter.cs">
+    <Files>
+      <File FileName="ContactsAdapterDemo/ContactsAdapter.cs" Line="16" Column="16" />
+      <File FileName="ContactsAdapterDemo/Activity1.cs" Line="21" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/prhk/Desktop/Xamarin-Sampels/android/data/adapters/create_a_custom_adapter_for_contacts/ContactsAdapterDemo/ContactsAdapter.cs" relfile="ContactsAdapterDemo/ContactsAdapter.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ContactsAdapterDemo PreferredExecutionTarget="Android.192.168.57.101:5555" />
+</Properties>

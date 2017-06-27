@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4BB7C0DB-C24C-4543-B5ED-BD32EBCB1D6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassDataToActivity/Activity1.cs">
+    <Files>
+      <File FileName="PassDataToActivity/Activity1.cs" Line="1" Column="1" />
+      <File FileName="PassDataToActivity/Activity2.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PassDataToActivity PreferredExecutionTarget="Android.AVD_for_Nexus_4" />
+  <MultiItemStartupConfigurations />
+</Properties>

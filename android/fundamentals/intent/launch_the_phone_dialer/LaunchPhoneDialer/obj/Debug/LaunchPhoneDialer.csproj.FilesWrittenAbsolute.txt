@@ -1,0 +1,13 @@
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/bin/Debug/LaunchPhoneDialer.pdb
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/bin/Debug/LaunchPhoneDialer.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/bin/Debug/LaunchPhoneDialer.LaunchPhoneDialer.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/android/bin/LaunchPhoneDialer.LaunchPhoneDialer.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/res/layout/main.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/res/values/strings.xml
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/res/drawable/icon.png
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/R.cs.flag
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/bin/Debug/LaunchPhoneDialer.LaunchPhoneDialer-Signed.apk
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/uploadflags.txt
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/LaunchPhoneDialer.dll
+/Users/prhk/Desktop/Xamarin-Sampels/android/fundamentals/intent/launch_the_phone_dialer/LaunchPhoneDialer/obj/Debug/LaunchPhoneDialer.pdb
